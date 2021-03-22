@@ -1,4 +1,4 @@
-import { useSelector, shallowEqual, useDispatch } from "react-redux-7";
+import { useSelector, shallowEqual, useDispatch } from "react-redux";
 import React from 'react';
 
 

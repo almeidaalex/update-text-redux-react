@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import { connect } from 'react-redux-7';
+import { connect } from 'react-redux';
 
 const mapStateToProps = state => {  
   const { ...notaFiscal } = state;  
