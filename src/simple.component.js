@@ -1,4 +1,4 @@
-import { connect } from "react-redux";
+import { connect } from "react-redux-7";
 import React from 'react';
 
 const simpleComponent = () => {
